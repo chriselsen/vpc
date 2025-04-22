@@ -58,8 +58,9 @@ npx deploy create <stack>
 
 The CloudFormation template creates the below depicted AWS resources.
 
-<img src="../../raw/main/documentation/images/dpfc-coe-vpc.png">
-Image Source: [dfpc-coe-vpc.drawio](../../raw/main/documentation/images/dpfc-coe-vpc.drawio)
+![Component diagram](documentation/images/dfpc-coe-vpc.png)
+
+Image Source: [dfpc-coe-vpc.drawio](documentation/images/dfpc-coe-vpc.drawio)
 
 ## Estimated Cost
 
